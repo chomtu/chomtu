@@ -1,0 +1,14 @@
+import java.*;
+class prashansa
+{
+public void main( String.iostream[])
+{
+bufferreader in= bufferreader.in
+int a b c d
+system.out.println("enter the number a ");
+system.out.println("enter the number b");
+system.out.println("enter the number c);
+d=a+b+c;
+system.out.println(d);
+}
+}
